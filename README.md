@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ibrahima Diallo
 
-<!--
-**jalloh19/jalloh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 **Major:** Computer Science  
+💡 **Passion:** Artificial Intelligence 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Programming Languages:** Python, C, Java, SQL
+- **Data Science:** Pandas, NumPy
+- **Machine Learning:** Supervised Learning
+- **Tools & Technologies:** Jupyter, MySQL, Git
+- 
+## 💻 My Projects
+  Coming...👨‍💻
+  
+## 📞Contact Me
+
+- **Email:** ikdiallotechie@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ikdiallo
