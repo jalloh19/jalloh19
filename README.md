@@ -18,4 +18,4 @@
 ## 📞Contact Me
 
 - **Email:** ikdiallotechie@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ikdiallo
+- **LinkedIn:** https://www.linkedin.com/in/ikdiallo79
