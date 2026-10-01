@@ -40,19 +40,19 @@ Computer Science (Data Science) graduate from Albukhary International University
 ## Selected Projects
 
 **[brightbeam-allianz-shield-plus](https://github.com/jalloh19/brightbeam-allianz-shield-plus)**
-Digital onboarding portal for foreign applicants in Malaysia, replacing a largely paper-based flow.
-
-**[shoptrack-analytics-api](https://github.com/jalloh19/shoptrack-analytics-api)**
-Django REST API that tracks and analyses e-commerce cart behaviour, exposing conversion funnel data to a reporting layer.
-
-**[Multi-Class-Review-Ranker](https://github.com/jalloh19/Multi-Class-Review-Ranker)**
-NLP pipeline for multi-class sentiment classification using Scikit-learn and NLTK, with custom preprocessing.
-
-**[rollbotsai-conversation-engine](https://github.com/jalloh19/rollbotsai-conversation-engine)**
-Conversation engine for an AI assistant.
+Insurance application portal for foreign nationals in Malaysia. Nine-step progressive form with conditional field visibility, real-time premium calculation, admin review dashboard, and PDPA-compliant encryption and audit logging. Django and Tailwind, deployed on Railway.
 
 **[alx-project-nexus](https://github.com/jalloh19/alx-project-nexus)**
-Capstone project for the ALX ProDev Backend Engineering programme.
+Movie recommendation REST API built with Django REST Framework. JWT authentication with token refresh and blacklisting, TMDb integration with automatic sync, user favourites and ratings, PostgreSQL.
+
+**[rollbotsai-conversation-engine](https://github.com/jalloh19/rollbotsai-conversation-engine)**
+WhatsApp agent that classifies incoming messages and routes them to sales, support or general handling using Groq and Llama 3. FastAPI backend, React dashboard, API key authentication and rate limiting.
+
+**[shoptrack-analytics-api](https://github.com/jalloh19/shoptrack-analytics-api)**
+Django REST API that tracks shopping cart behaviour to analyse e-commerce abandonment. JWT authentication, cart management with live totals, and analytics endpoints documented in Swagger.
+
+**[Multi-Class-Review-Ranker](https://github.com/jalloh19/Multi-Class-Review-Ranker)**
+Five-class sentiment ranking of Amazon reviews, comparing Naive Bayes, linear SVM and Word2Vec with logistic regression on a shared split, with a Streamlit dashboard for side-by-side inference. Group project; I built the Naive Bayes model.
 
 ---
 
