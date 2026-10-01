@@ -79,6 +79,6 @@ ALX Data Engineering (13 months) · ALX Data Science & Data Analytics (14 months
 ## Contact
 
 **Email:** [contact.ibrahima.kd@gmail.com](mailto:contact.ibrahima.kd@gmail.com)
-**LinkedIn:** [linkedin.com/in/ikdiallo79](https://www.linkedin.com/in/ikdiallo79)
+**LinkedIn:** [linkedin.com/in/jalloh19](https://www.linkedin.com/in/jalloh19)
 
 Based in Malaysia, open to relocation.
